@@ -138,7 +138,7 @@
         fetch(QH4.webhook, { method: 'POST', mode: 'no-cors', body: body }).catch(function () {})
           .then(function () { location.href = 'obrigado.html'; });
       } else {
-        var m = 'Olá! Vim pelo site da Marmoraria Superiore e quero um orçamento.\n\n' +
+        var m = 'Olá! Vim pelo site da Marmoraria e gostaria de solicitar um orçamento.\n\n' +
           '*Nome:* ' + d.nome + '\n' +
           '*WhatsApp:* ' + d.whatsapp + '\n' +
           '*Bairro/Cidade:* ' + d.local + '\n' +

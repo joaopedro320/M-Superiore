@@ -16,7 +16,7 @@ window.QH4 = {
   webhook: '',
 
   /* Mensagens do WhatsApp */
-  msgCTA: 'Olá! Vim pelo site da Marmoraria Superiore e gostaria de pedir um orçamento.',
+  msgCTA: 'Olá! Vim pelo site da Marmoraria e gostaria de solicitar um orçamento.',
   msgFormWebhook: 'Olá, acabei de preencher o formulário no site. Aguardo mais informações.',
 
   /* Rótulos de conversão (Google Ads) | usados no SLOT 8 da página de obrigado */
